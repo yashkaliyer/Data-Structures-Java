@@ -1,6 +1,6 @@
 # IntelliJ IDEA files
 .idea/
-.out/
+out/
 *.iml
 
 # Mac system files
